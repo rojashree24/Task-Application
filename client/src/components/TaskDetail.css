@@ -1,0 +1,18 @@
+.task-detail {
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.task-detail button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+.task-detail button:hover{
+cursor: pointer;
+background-color: rgb(208, 244, 244);
+}

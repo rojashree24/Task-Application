@@ -1,0 +1,17 @@
+.task-edit form {
+    display: flex;
+    flex-direction: column;
+}
+
+.task-edit input,
+.task-edit textarea {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.task-edit button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}

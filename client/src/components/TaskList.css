@@ -1,0 +1,15 @@
+.task-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-list li {
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.task-list li:hover {
+    background: #c4f1f2;
+}
